@@ -1,0 +1,26 @@
+[
+  {
+    "name": "fabriccontainer_1",
+    "path": "/Tables",
+    "target": {
+      "type": "AdlsGen2",
+      "adlsGen2": {
+        "connectionId": "c6fede9e-ffcc-4334-8548-e94f4b5fa682",
+        "location": "https://anildwafabricadlsgen2.dfs.core.windows.net",
+        "subpath": "/fabriccontainer"
+      }
+    }
+  },
+  {
+    "name": "event_data",
+    "path": "/Tables",
+    "target": {
+      "type": "AdlsGen2",
+      "adlsGen2": {
+        "connectionId": "c6fede9e-ffcc-4334-8548-e94f4b5fa682",
+        "location": "https://anildwafabricadlsgen2.dfs.core.windows.net",
+        "subpath": "/fabriccontainer/tables/event_data"
+      }
+    }
+  }
+]

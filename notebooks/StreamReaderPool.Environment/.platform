@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "StreamReaderPool",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0088472a-88b0-b63b-48b3-567428c9b318"
+  }
+}
